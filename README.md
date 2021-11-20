@@ -4,6 +4,7 @@ Highly qualified computer programmer with over 7 years of software development a
 The ability to proactively identify, resolve, control, automate and maximize productivity. Advanced computer skills. Strengths in:
 - SQL programming and reporting
 - Java and Java Technologies
+- Python Programming
 - Qlik Sense
 - CPM Master ERP
 

@@ -1,6 +1,6 @@
 ### Hi EveryBody 👋
 
-Highly qualified computer programmer with over 7 years of software development and support in the ERP industry.
+A highly qualified computer programmer with over 7 years of software development and support in the ERP industry. I am also a data scientist candidate.
 The ability to proactively identify, resolve, control, automate and maximize productivity. Advanced computer skills. Strengths in:
 - SQL programming and reporting
 - Java and Java Technologies
@@ -8,9 +8,9 @@ The ability to proactively identify, resolve, control, automate and maximize pro
 - Qlik Sense
 - CPM Master ERP
 
-Im curious. I am working to improve myself in continuous development. I try to make life easier and find solutions to people's common problems.
+I'm curious. I am working to improve myself in continuous development. I try to make life easier and find solutions to people's common problems.
 
-- 🌱 I am currently working on Java, Sql, Git
+- 🌱 I am currently working on Python, Data Science, SQL, Git
 - ⚡ I have Javascript experience
 
 [![Linkedin Badge](https://img.shields.io/badge/-yemrekarakas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yemrekarakas/)](https://www.linkedin.com/in/yemrekarakas/) 

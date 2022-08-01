@@ -12,6 +12,7 @@ I'm curious. I am working to improve myself in continuous development. I try to 
 - 🌱 I am currently working on Python, Data Science, SQL, Git
 - ⚡ I have Javascript experience
 
+[![GitLab Badge](https://img.shields.io/badge/-emrekarakas-71c138?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/emrekarakas/)](https://gitlab.com/emrekarakas/) 
 [![Linkedin Badge](https://img.shields.io/badge/-yemrekarakas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yemrekarakas/)](https://www.linkedin.com/in/yemrekarakas/) 
 [![Gmail Badge](https://img.shields.io/badge/-yemrekrks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yemrekrks@gmail.com)](mailto:yemrekrks@gmail.com)
 

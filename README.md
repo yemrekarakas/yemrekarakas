@@ -1,6 +1,6 @@
 ### Hi EveryBody 👋
 
-A highly qualified computer programmer with over 7 years of software development and support in the ERP industry. I am also a data scientist candidate.
+A highly qualified computer programmer with over 7 years of software development and support in the ERP industry. I am also a data engineer candidate.
 The ability to proactively identify, resolve, control, automate and maximize productivity. Advanced computer skills. Strengths in:
 - SQL programming and reporting
 - Python Programming
@@ -9,7 +9,7 @@ The ability to proactively identify, resolve, control, automate and maximize pro
 
 I'm curious. I am working to improve myself in continuous development. I try to make life easier and find solutions to people's common problems.
 
-- 🌱 I am currently working on Python, Data Science, SQL, Git
+- 🌱 I am currently working on Python, Data Engineering, SQL, Git
 - ⚡ I have Javascript experience
 
 [![GitLab Badge](https://img.shields.io/badge/-emrekarakas-71c138?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/emrekarakas/)](https://gitlab.com/emrekarakas/) 
